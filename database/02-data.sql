@@ -9,7 +9,27 @@ INSERT INTO users (name, last_name, email) VALUES
 ('Miguel', 'Fernández', 'miguel.fernandez@example.com'),
 ('Sofía', 'Díaz', 'sofia.diaz@example.com'),
 ('David', 'Hernández', 'david.hernandez@example.com'),
-('Elena', 'Ruiz', 'elena.ruiz@example.com');
+('Elena', 'Ruiz', 'elena.ruiz@example.com'),
+('Roberto', 'Gutiérrez', 'roberto.gutierrez@example.com'),
+('Isabel', 'Moreno', 'isabel.moreno@example.com'),
+('Jorge', 'Jiménez', 'jorge.jimenez@example.com'),
+('Carmen', 'Alvarez', 'carmen.alvarez@example.com'),
+('Fernando', 'Romero', 'fernando.romero@example.com'),
+('Patricia', 'Navarro', 'patricia.navarro@example.com'),
+('Ricardo', 'Torres', 'ricardo.torres@example.com'),
+('Beatriz', 'Domínguez', 'beatriz.dominguez@example.com'),
+('Francisco', 'Vázquez', 'francisco.vazquez@example.com'),
+('Lucía', 'Ramos', 'lucia.ramos@example.com'),
+('Antonio', 'Gil', 'antonio.gil@example.com'),
+('Marta', 'Serrano', 'marta.serrano@example.com'),
+('Pablo', 'Blanco', 'pablo.blanco@example.com'),
+('Silvia', 'Suárez', 'silvia.suarez@example.com'),
+('Javier', 'Molina', 'javier.molina@example.com'),
+('Teresa', 'Morales', 'teresa.morales@example.com'),
+('Ángel', 'Ortega', 'angel.ortega@example.com'),
+('Nuria', 'Delgado', 'nuria.delgado@example.com'),
+('Alberto', 'Castro', 'alberto.castro@example.com'),
+('Rosa', 'Ortiz', 'rosa.ortiz@example.com');
 
 -- Insertar eventos
 INSERT INTO events (name, date, location, description) VALUES
